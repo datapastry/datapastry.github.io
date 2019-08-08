@@ -176,7 +176,7 @@ We suggest that you conduct regular 1-1s with your data scientist to ensure they
 
 Try to make sure that the work your data scientist is doing is aligned with their own personal goals. The reality of commercial data science work is that much of a data scientist’s time can be consumed by data wrangling and other tedious tasks. But you can try to mitigate the drudgery by finding work for them that is more intellectually fulfilling. For example, if your data scientist wants to spend one day a week doing investigative work that isn’t guaranteed to pay off, see if you can make this happen. It’s entirely possible that their research could result in a big win for the business!
 
-Lots of data scientists also like feeling like they’re not isolated from the community at large, which is especially relevant if you only have one data scientist in your company. If they’re interested, let your data scientist take the time to go to data conferences and meetups. They can also talk about how great your company is for data scientists at these events -- or discourage anyone else from applying if it’s actually a terrible place to work (just kidding, only people in awesome companies read our articles).
+Lots of data scientists also like feeling like they’re not isolated from the community at large, which is especially relevant if you only have one data scientist in your company. If they’re interested, let your data scientist take the time to go to data conferences and meetups. They can also talk about how great your company is for data scientists -- or discourage anyone else from applying if it’s actually a terrible place to work (just kidding, only people in awesome companies read our articles).
 
 **Data science processes**
 
