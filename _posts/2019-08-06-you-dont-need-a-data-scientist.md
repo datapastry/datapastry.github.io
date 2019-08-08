@@ -1,5 +1,5 @@
 ---
-title: "You don't need a data scientist. Yet."
+title: "You don't need a data scientist"
 ---
 I have a confession to make. I hardly ever do data science. This might sound like a bizarre claim, seeing as almost every job I’ve ever had has the words “Data Scientist” somewhere in its title.
 
@@ -29,7 +29,7 @@ Me: “Cool. Did you have any specific use cases in mind, or would you like me t
 
 HM: “We do have a couple of things in mind...”
 
-**_<At this point I listen closely. I know that the first thing the HM mentions is likely to also be the highest-priority item for them, and hence the reason for the call.>_**
+_At this point I listen closely. I know that the first thing the HM mentions is likely to also be the highest-priority item for them, and hence the reason for the call._
 
 HM (continues): “The most profitable area of business for us isn’t actually dragon food -- it’s the dragon training service we provide our customers. As you know, dragons are very much _en vogue_ now, but they have the unfortunate tendency to eat their owners. So we help customers train their dragons and reduce the likelihood of their getting eaten to less than 5%.”
 
@@ -73,7 +73,11 @@ Me: “Hmm, so it sounds like the first step is to fix this KPI as we need to ma
 
 HM: “Yes, we use Google Analytics.”
 
-Me: “Right, so in order to help you understand your sales, a data analyst -- because this is what I feel you really need before you hire a data scientist -- will ideally have all the data about each customer in one place. This is surprisingly difficult to do as it involves tracking customers as they proceed from the online world to the offline, and often this can’t be done retroactively. So as a first step, you might want to consider migrating to a better CRM that allows you to easily report your sales numbers and will also help to facilitate this online-to-offline tracking. Migrations are always tricky and I’m usually hesitant to recommend them, but clearly it’s hurting your business if you’re not even able to do reporting from your CRM. You’ll have to weigh the cost versus benefit of this of course.”
+Me: “Right, so in order to help you understand your sales, a data analyst -- because this is what I feel you really need before you hire a data scientist -- will ideally have all the data about each customer in one place. This is surprisingly difficult to do as it involves tracking customers as they proceed from the online world to the offline, and often this can’t be done retroactively."
+
+HM: "OK..."
+
+Me: "So as a first step, you might want to consider migrating to a better CRM that allows you to easily report your sales numbers and will also help to facilitate this online-to-offline tracking. Migrations are always tricky and I’m usually hesitant to recommend them, but clearly it’s hurting your business if you’re not even able to do reporting from your CRM. You’ll have to weigh the cost versus benefit of this of course.”
 
 HM: “Thanks a lot, this all makes sense. So if we do proceed with this plan, would you be able to help us with the migration?”
 
@@ -121,7 +125,7 @@ Of course, not having an employee stick around for 300 years isn’t necessarily
 
 Sometimes it does make sense to hire a data scientist to be your “everything data” guy even if only 10% of what they do is data science. This is especially true in startups where it’s normal for employees to wear multiple hats. 
 
-It’s probably fair to say that if you _do _need an “everything data” guy, then a well-rounded data scientist is a pretty good bet. An experienced data scientist can often do the occasional data analytics or engineering task but the reverse is very difficult.
+It’s probably fair to say that if you _do_ need an “everything data” guy, then a well-rounded data scientist is a pretty good bet. An experienced data scientist can often do the occasional data analytics or engineering task but the reverse is very difficult.
 
 Think about your top data-related priorities and ask yourself where data science sits in the hierarchy: if your main requirements are reporting aggregate metrics and getting a better understanding of your data, then a good data analyst should be just fine. Don’t kid yourself about what you actually need, and make sure any data professional you hire knows what type of work to expect.
 
@@ -149,7 +153,7 @@ Let’s talk about FOMO first. Unless you’ve been living under a rock the size
 
 So naturally you might feel like unless you embrace the AI revolution yourself, your company will go the way of the dinosaur, and you definitely don’t want that. Who can help you get on the bandwagon? How about an **AI expert**! And what are **AI experts** usually called? Well, “data scientists” for one…
 
-I hope you’ll agree that FOMO is not a good thing to base a company’s hiring decisions on, so let’s now talk about the second, more concrete factor. What can data scientists actually bring to the table? Very broadly, data scientists extract value from data. Slightly more precisely, data scientists find patterns in data and then exploit these patterns to predict things you care about based on past events.
+Hopefully you’ll agree that FOMO is not a good thing to base a company’s hiring decisions on. So let’s now talk about the second, more concrete factor. What can data scientists actually bring to the table? Very broadly, data scientists extract value from data. Slightly more precisely, data scientists find patterns in data and then exploit these patterns to predict things you care about based on past events.
 
 To find these patterns, the data scientist will need data (duh!). What kind of data will they need? Well, imagine that you’re a homeowner and you want to predict the sale price of your property, which is just another way of saying you want to value your property. Naturally, this would be based on a range of different factors including the property’s location, size, condition and so on. You’d then want to relate these factors to the property price; the more historical data you have connecting a property’s price to its location, size and condition, the easier it will be to value your own property. 
 
@@ -157,7 +161,7 @@ Data scientists basically do the same thing as you do when you value a property,
 
 You might hope that a data scientist will be able to use machine learning to find patterns that a human would never be able to. In a way this is true, because they can write code to look at far more data than a human could. **But don’t expect to see something magical.** Typically data scientists will find patterns that are fairly intuitive, except that they’ll be able to tell you _exactly_ how a property’s price relates to its location and size and when this relationship doesn’t hold up.
 
-It’s also common for data scientists to _invalidate _a lot of prior assumptions and conventional wisdom in a company. Being truly data-driven means you’ll listen to them when they tell you that your intuition about what kinds of customers are most likely to churn was completely wrong.
+It’s also common for data scientists to _invalidate_ a lot of prior assumptions and conventional wisdom in a company. Being truly data-driven means you’ll listen to them when they tell you that your intuition about what kinds of customers are most likely to churn was completely wrong.
 
 What about getting “insights” from data? Sometimes data scientists will do clever things to generate pretty pictures so they can say things like “oh look! Most of our customers fall into one of these seven big clusters.” What do they do with these clusters? Usually not very much, but for a brief time it will look like they’ve done something important. (This is not to say that this kind of clustering is never useful, but all too often it is used simply to generate attractive visualisations without much tangible value.)
 

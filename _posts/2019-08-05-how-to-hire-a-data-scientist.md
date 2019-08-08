@@ -27,7 +27,7 @@ Coming up with a good work sample test is not easy, however. There are a couple 
 *   Good data science tests typically involve a data task that encompasses exploratory analysis, some cleaning/feature engineering and building a model. You can also incorporate a system design task into your task (e.g. “how would you productionise this model to serve predictions to hundreds of users per second?”) if it’s relevant to the job.
 *   Try to ensure your test is substantive enough to allow you to gauge the applicant’s code quality. Clean, well-structured code is something many data scientists struggle to achieve. 
 
-**Shameless plug: **We’re putting together a free work sample test and scoring rubric that you can use as a basis for your own test. [Let us know](https://google.com) if you’d like access and we’ll send it over when it’s ready.
+**Shameless plug:** We’re putting together a free work sample test and scoring rubric that you can use as a basis for your own test. [Let us know](https://google.com) if you’d like access and we’ll send it over when it’s ready.
 
 We’d suggest allowing candidates to do the test at home instead of insisting that it be conducted in person. This will save time and money for both parties. If the candidate is successful at the work sample stage, you can invite them over to your office to present their results.
 
@@ -59,7 +59,7 @@ Here are a couple of things that _should_ be no-brainers, but very rarely are:
 
 If your hiring process is very unpleasant, many good candidates will just walk away instead of wasting time and energy with your company. There are plenty of other data science jobs out there.
 
-And if you’re happy with a candidate, **make a serious offer as fast as you possibly can. **I can’t emphasise this enough. I don’t want to boast (he lied), but I’ve never been turned down for a job once I’ve spoken to a real person. I also don’t like to waste time, so I simply take the first good offer I receive.
+And if you’re happy with a candidate, **make a serious offer as fast as you possibly can.** I can’t emphasise this enough. I don’t want to boast (he lied), but I’ve never been turned down for a job once I’ve spoken to a real person. I also don’t like to waste time, so I simply take the first good offer I receive.
 
 Generally I do this out of a (possibly irrational) fear that I’ll lose the offer if I hang around for too long. I’m pretty sure a lot of data scientists are the same way, so you can save yourself a bunch of time and money just by making hiring decisions more quickly than your competitors.
 
@@ -69,7 +69,7 @@ It’s quite common for companies to cite Google or some other hugely successful
 
 Unfortunately, what works for Google almost certainly won’t work for you. Because, well, you’re not Google.
 
-All hiring processes are fundamentally a tradeoff between _false positives _and _false negatives_. A false positive is an accidental hire of a bad candidate. A false negative is a rejection of a candidate you should have hired.
+All hiring processes are fundamentally a tradeoff between _false positives_ and _false negatives_. A false positive is an accidental hire of a bad candidate. A false negative is a rejection of a candidate you should have hired.
 
 A super-high interviewing bar means that you’ll have very few false positives but also a lot of false negatives. You’ll reject a lot of great candidates, but the few people you do hire will likely be excellent.
 
@@ -108,11 +108,11 @@ If you really think writing JavaScript might be part of a candidate’s responsi
 
 It’s really nice if you say what a “day in the life of a data scientist” would be like at your company. An experienced candidate should ask about this anyway, of course; there’s very little consistency between data science operations in different companies. Without this knowledge, accepting a new role can feel a bit like walking across a motorway with your eyes closed in the hope of finding a pastry on the other side.
 
-**Hey, it’s time for another shameless plug! **Remember when we said we’re putting together a free work sample test and scoring rubric just for you? We’ll also create a sample job description for you to use as a template. [Let us know](https://www.google.com/) if you’d like to be notified when these are ready. As always, you’re welcome to customise our materials as much as you like.
+**Hey, it’s time for another shameless plug!** Remember when we said we’re putting together a free work sample test and scoring rubric just for you? We’ll also create a sample job description for you to use as a template. [Let us know](https://www.google.com/) if you’d like to be notified when these are ready. As always, you’re welcome to customise our materials as much as you like.
 
 **What skills and experience should you expect from a data scientist?**
 
-Data scientists are the ultimate jacks of all trades. You don’t need someone who’s an expert in everything but it’s important that they understand how all the pieces fit together. **<pull quote> **This is not a good field for extreme specialists.
+Data scientists are the ultimate jacks of all trades. You don’t need someone who’s an expert in everything but it’s important that they understand how all the pieces fit together. **This is not a good field for extreme specialists**.
 
 We’d advise customising the skills you test based on the specific role for which you’re hiring. You probably don’t need a data scientist with a deep knowledge of convolutional neural networks if they’re mostly going to be working on credit scoring.
 
@@ -246,10 +246,10 @@ So how can you identify a good data scientist if you yourself are not a data sci
 
 **Short answer:** you can’t. Your best bet is to hire someone with a great portfolio, but as mentioned this will likely cost you a small fortune because everyone else will want that person as well. It doesn’t take a genius to figure out that someone who used to run data science at Netflix and Airbnb is likely to be a pretty good data scientist.
 
-**Long answer: **you can’t. At least not entirely on your own. You really need to find a way to get assistance from data scientists that you know and trust. If you’re not in a position to do this, then your best bet is to get in touch with us and we’ll happily play the role of “trusted data scientists”.
+**Long answer:** you can’t. At least not entirely on your own. You really need to find a way to get assistance from data scientists that you know and trust. If you’re not in a position to do this, then your best bet is to get in touch with us and we’ll happily play the role of “trusted data scientists”.
 
 It’s been too long since the last shameless plug, so I’ll conclude with a couple of paragraphs of marketing fluff.
 
-If you do find yourself needing to hire a good data scientist -- and it _is_ hard! -- then [drop us a message](https://www.google.com/) and we’ll help you out. We’ll give you advice on hiring strategy (maybe you [don’t need a data scientist at all](https://www.google.com/)) and build a structured interview and testing process tailored to your specific needs. And if that’s not enough, we’ll even supply you with pastries.
+If you do find yourself needing to hire a good data scientist -- and it _is_ hard! -- then [book a free consultation](https://calendly.com/isk-pastry/consult) and we’ll help you out. We’ll give you advice on hiring strategy (maybe you [don’t need a data scientist at all](https://www.google.com/)) and build a structured interview and testing process tailored to your specific needs. And if that’s not enough, we’ll even supply you with pastries.
 
 Last but not least, we’re putting together a free **Hire a Data Scientist package** including an example of a work sample test, objective scoring rubric and example job description. You can use this package as a template for your own data science hiring needs. [Let us know](https://www.google.com/) if you’d like to be notified when the package is ready.
