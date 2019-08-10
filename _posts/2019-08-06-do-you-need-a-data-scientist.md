@@ -13,7 +13,7 @@ So what’s going on? Am I getting paid a lot of money to watch YouTube videos o
 
 But let’s be serious for a few seconds.
 
-As a principal/lead/generally quite awesome data scientist, I receive a lot of requests for help with data science. Typically the conversation goes something like this:
+As a Principal/Lead/Generally Quite Awesome Data Scientist, I receive a lot of requests for help with data science. Typically the conversation goes something like this:
 
 Me: “HELLO I’M ISKANDER HOW MAY I HELP YOU!!!”
 
@@ -57,7 +57,7 @@ Can I ask how many customers typically purchase the service at the moment?”
 
 HM: “That’s actually tricky to answer. You see, the sale doesn’t actually happen online. Because it’s quite an expensive service, we feel it’s better to have one of our dragon trainers make the sale in person.
 
-So the sale itself is entered into our CRM, but often there’s quite a large delay between the sale actually being made and it actually getting logged into our system. The CRM itself is a terrible homegrown system and nobody likes to use it.”
+So the sale itself is entered into our CRM, but often there’s quite a large delay between the sale actually being made and it actually getting logged into our system. The CRM itself is a legacy homegrown system and nobody likes to use it.”
 
 Me: “I see. But it sounds like you should at least have a rough idea of sales figures, even if they’re not exactly up-to-date?”
 
@@ -87,7 +87,7 @@ Me: “Wouldn’t it make more sense to have the eventual number of dragon train
 
 HM: “The sales data is in the CRM so we can’t track it as easily.”
 
-Me: “Hmm, so it sounds like the first step is to fix this KPI as we need to make sure we’re optimising for something sensible. You’ve mentioned that you have a CRM and presumably you also track visitor behaviour online?”
+Me: “Hmm, so it sounds like the first step is to fix this KPI as we need to make sure we’re optimising for something sensible. You mentioned that you have a CRM and presumably you also track visitor behaviour online?”
 
 HM: “Yes, we use Google Analytics.”
 
@@ -109,7 +109,7 @@ HM: “That’s fine, we really need a data scientist as there’s a lot of scop
 
 Me: “Erm… all right then. I’ve always wanted to learn more about CRMs.”
 
-In reality, of course, I’d turn down any job where I didn’t think I was able to do a good job.
+In reality, of course, I’d turn down any task where I didn’t think I was able to do a good job.
 
 But weirdly, I’ve ended up “qualified” in a whole range of areas that have absolutely nothing to do with data science. This is because I’ve found myself doing “anything and everything to do with data”, and it’s not always obvious what a specific role will entail until you actually get started.
 
