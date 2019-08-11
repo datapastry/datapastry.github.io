@@ -1,5 +1,6 @@
 ---
 title: "Do you really need a data scientist? _(Part 3/3)_"
+author: Iskander Yusof
 excerpt: "When should you hire a data scientist?"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Do you really need a data scientist? _(Part 1/3)_"
+author: Iskander Yusof
 excerpt: "Confessions of a data scientist."
 ---
 I have a confession to make. I hardly ever do data science.

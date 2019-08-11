@@ -1,5 +1,6 @@
 ---
 title: "Do you really need a data scientist? _(Part 2/3)_"
+author: Iskander Yusof
 excerpt: "What do data scientists actually do all day?"
 ---
 

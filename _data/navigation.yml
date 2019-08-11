@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "DataPastry"
+  - title: "Main Site"
     url: https://datapastry.com
   # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  #   url: https://datapastry.com
+  # - title: "Book Consultation"
+  #   url: https://calendly.com/isk-pastry/consult
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
