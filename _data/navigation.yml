@@ -2,10 +2,10 @@
 main:
   - title: "Main Site"
     url: https://datapastry.com
-  # - title: "About"
-  #   url: https://datapastry.com
-  # - title: "Book Consultation"
-  #   url: https://calendly.com/isk-pastry/consult
+  - title: "About"
+    url: https://datapastry.com
+  - title: "Book Consultation"
+    url: https://calendly.com/isk-pastry/consult
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
