@@ -19,10 +19,10 @@ locale                   : "en-US"
 title                    : "DataPastry Blog"
 title_separator          : "-"
 subtitle                 : "Data science done right."
-name                     : "DataPastry"
+name                     : "DataPastry Blog"
 description              : "DataPastry blog. Data science done right."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+#url                      : "https://datapastry.com"
+#baseurl                  : "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -107,21 +107,21 @@ analytics:
 
 # Site Author
 author:
-  #name             : "DataPastry Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  #bio              : "I am an **amazing** person."
-  #location         : "Somewhere"
-  email            :
+  name             : "Diary of a Pastry"
+  avatar           : "/assets/images/bio-datapastry.jpg"
+  bio              : "We give you the straight dope on data science."
+  #location         : "London, UK"
+  #email            : "hello@datapastry.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "DataPastry Home"
+    - label: "Home"
       icon: "fas fa-fw fa-link"
       url: "https://datapastry.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:hello@datapastry.com
     - label: "LinkedIn"
-      icon: "fab fa-linkedin-in"
-      #url: "https://www.linkedin.com/company/datapastry"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/company/datapastry"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/datapastry"
@@ -294,6 +294,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false
+      toc: false
       share: true
       related: true

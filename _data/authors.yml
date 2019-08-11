@@ -1,0 +1,19 @@
+# /_data/authors.yml
+
+Iskander Yusof:
+  name        : "Iskander Yusof"
+  bio         : "Iskander is a principal data scientist at DataPastry."
+  avatar      : "/assets/images/bio-isk.jpg"
+  links:
+    - label: "Home"
+      icon: "fas fa-fw fa-link"
+      url: "https://datapastry.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:hello@datapastry.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/company/datapastry"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/datapastry"
