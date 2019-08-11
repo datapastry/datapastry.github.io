@@ -1,8 +1,9 @@
 ---
 title: "Do you really need a data scientist? _(Part 3/3)_"
+excerpt: "When should you hire a data scientist?"
 ---
 
-_(Continued from Parts 2 and 3, where I explained why data scientists are usually a waste of time and money.)_
+_(Continued from Parts [1]({{ site.baseurl }}{% post_url 2019-08-06-do-you-need-a-data-scientist-part-1 %}) and [2]({{ site.baseurl }}{% post_url 2019-08-06-do-you-need-a-data-scientist-part-2 %}), where I explained why data scientists are usually a waste of time and money.)_
 
 ## When _shouldn’t_ you hire a data scientist?
 
