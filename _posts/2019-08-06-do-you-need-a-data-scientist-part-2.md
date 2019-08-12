@@ -1,7 +1,7 @@
 ---
 title: "Do you really need a data scientist? _(2/3)_"
 author: Iskander Yusof
-excerpt: "What do data scientists actually do all day?"
+excerpt: "What data scientists actually do all day."
 header:
   overlay_image: /assets/images/header-pastry-2.jpg
   overlay_filter: 0.7
