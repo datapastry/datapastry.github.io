@@ -3,8 +3,8 @@ title: "Do you really need a data scientist? _(2/3)_"
 author: Iskander Yusof
 excerpt: "What do data scientists actually do all day?"
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_image: /assets/images/header-pastry-2.jpg
+  overlay_filter: 0.7
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 

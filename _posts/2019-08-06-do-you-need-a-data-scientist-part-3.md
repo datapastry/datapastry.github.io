@@ -3,8 +3,8 @@ title: "Do you really need a data scientist? _(3/3)_"
 author: Iskander Yusof
 excerpt: "When should you hire a data scientist?"
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_image: /assets/images/header-pastry-3.jpg
+  overlay_filter: 0.6
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 

@@ -3,8 +3,8 @@ title: "Do you really need a data scientist? _(1/3)_"
 author: Iskander Yusof
 excerpt: "Confessions of a data scientist."
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_image: /assets/images/header-pastry.jpg
+  overlay_filter: 0.6
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 I have a confession to make. I hardly ever do data science.
