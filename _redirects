@@ -1,2 +1,2 @@
-/blog/*	/:splat	200!
-/* 404!
+/blog/*	/:splat		200!
+/*		404.html	404!
