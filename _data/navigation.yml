@@ -2,8 +2,8 @@
 main:
   - title: "Main Site"
     url: https://datapastry.com
-  - title: "About"
-    url: https://datapastry.com
+  - title: "About Us"
+    url: https://datapastry.com/#whatwedo
   - title: "Book Consultation"
     url: https://calendly.com/isk-pastry/consult
   # - title: "Sample Posts"
