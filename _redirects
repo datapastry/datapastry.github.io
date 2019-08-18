@@ -1,3 +1,2 @@
-/blog/*										/:splat									200!
-https://datapastry-blog.netlify.com/blog/*	https://www.datapastry.com/blog/:splat	301!
-/*											/404.html								404!
+/blog/*	/:splat			200!
+/*		/404.html		404!
