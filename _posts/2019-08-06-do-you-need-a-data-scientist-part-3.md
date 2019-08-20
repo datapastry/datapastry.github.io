@@ -1,11 +1,10 @@
 ---
-title: "Do you really need a data scientist? _(3/3)_"
+title: "Are you ready for data science?"
 author: Iskander Yusof
-excerpt: "When you should hire a data scientist."
+excerpt: "Probably not. But here's how to find out."
 header:
   overlay_image: /assets/images/header-pastry-3.jpg
   overlay_filter: 0.6
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 _(Continued from Parts [1]({{ site.baseurl }}{% post_url 2019-08-06-do-you-need-a-data-scientist-part-1 %}) and [2]({{ site.baseurl }}{% post_url 2019-08-06-do-you-need-a-data-scientist-part-2 %}), where I explained why data scientists are usually a waste of time and money.)_
