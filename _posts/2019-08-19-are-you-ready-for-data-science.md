@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.6
 ---
 
-_(Continued from Parts [1]({{ site.baseurl }}{% post_url 2019-08-06-do-you-need-a-data-scientist-part-1 %}) and [2]({{ site.baseurl }}{% post_url 2019-08-06-do-you-need-a-data-scientist-part-2 %}), where I explained why data scientists are usually a waste of time and money.)_
+_(Continued from Parts [1]({{ site.baseurl }}{% post_url 2019-08-17-you-dont-need-a-data-scientist %}) and [2]({{ site.baseurl }}{% post_url 2019-08-18-what-data-scientists-actually-do-all-day %}), where I explained why data scientists are usually a waste of time and money.)_
 
 ## When _shouldn’t_ you hire a data scientist?
 

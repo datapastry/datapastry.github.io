@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.7
 ---
 
-_(Continued from [Part 1]({{ site.baseurl }}{% post_url 2019-08-06-do-you-need-a-data-scientist-part-1 %}) of this series, where I admitted that I rarely do data science. Scandalous!)_
+_(Continued from [Part 1]({{ site.baseurl }}{% post_url 2019-08-17-you-dont-need-a-data-scientist %}) of this series, where I admitted that I rarely do data science. Scandalous!)_
 
 ## What data scientists actually do
 
@@ -135,6 +135,6 @@ Working with hitherto-untouched data is like eating a random object that a stran
 
 There’s plenty of value in data. Most of it can be extracted without a data scientist.
 
-_(In the [final part]({{ site.baseurl }}{% post_url 2019-08-06-do-you-need-a-data-scientist-part-3 %}) of this series, I'll say more about when you **should** and **shouldn't** hire a data scientist._
+_(In the [final part]({{ site.baseurl }}{% post_url 2019-08-19-are-you-ready-for-data-science %}) of this series, I'll say more about when you **should** and **shouldn't** hire a data scientist._
 
 _Want to discuss your own specific data problems? Book a [free consultation](https://calendly.com/isk-pastry/consult) with us -- we're here to help!)_
