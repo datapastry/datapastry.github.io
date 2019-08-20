@@ -1,11 +1,10 @@
 ---
-title: "Do you really need a data scientist? _(1/3)_"
+title: "You don't need a data scientist"
 author: Iskander Yusof
 excerpt: "Confessions of a data scientist."
 header:
   overlay_image: /assets/images/header-pastry.jpg
   overlay_filter: 0.6
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 I have a confession to make. I hardly ever do data science.
 
@@ -123,6 +122,6 @@ If I had to describe my working life in four sentences, it would be “I solve p
 
 I’m pretty happy with this as it makes me an easy hire in most situations, but the fact of the matter remains: I’m a data scientist who doesn’t often do data science.
 
-_(In Parts [2]({{ site.baseurl }}{% post_url 2019-08-06-do-you-need-a-data-scientist-part-2 %}) and [3]({{ site.baseurl }}{% post_url 2019-08-06-do-you-need-a-data-scientist-part-3 %}) of this series, I'll talk about what data scientists **really** spend their time on. I'll also say more about when you **should** and **shouldn't** hire a data scientist._
+_(In Parts [2]({{ site.baseurl }}{% post_url 2019-08-18-what-data-scientists-actually-do-all-day %}) and [3]({{ site.baseurl }}{% post_url 2019-08-19-are-you-ready-for-data-science %}) of this series, I'll talk about what data scientists **really** spend their time on. I'll also say more about when you **should** and **shouldn't** hire a data scientist._
 
 _Want to discuss your own specific data problems? Book a [free consultation](https://calendly.com/isk-pastry/consult) with us -- we're here to help!)_
