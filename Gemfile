@@ -23,7 +23,7 @@ gem "minimal-mistakes-jekyll"
 #   gem "jekyll-feed"
 #   gem "jemoji"
 #   gem "jekyll-data"
-#   gem "jekyll-include-cache"
+gem "jekyll-include-cache"    # Netlify is complaining about this even though it should be there
 #
 # If you have any other plugins, put them here!
 group :jekyll_plugins do
