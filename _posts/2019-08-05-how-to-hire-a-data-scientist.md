@@ -16,7 +16,7 @@ Unfortunately, the same is true of data science. Without testing a prospective h
 
 Most likely you’ll optimise for the ability to _talk_ about data science rather than actually _do_ data science, which is fine if all you want is a great communicator, but not so good if you need results.
 
-When I’m interviewing prospective hires, I’m painfully aware than I can be fooled by someone who uses roughly the right terminology and seems to follow the right kinds of processes.
+When I’m interviewing prospective hires, I’m painfully aware that I can be fooled by someone who uses roughly the right terminology and seems to follow the right kinds of processes.
 
 I always find it interesting to see how candidates respond as I move from generalist “talk me through how you solved that problem”-type questions to more specific technical questions. Often candidates will be able to improvise their way through the generalist questions but come unstuck as soon as they’re asked something very specific.
 
