@@ -20,13 +20,11 @@ When I’m interviewing prospective hires, I’m painfully aware that I can be f
 
 I always find it interesting to see how candidates respond as I move from generalist “talk me through how you solved that problem”-type questions to more specific technical questions. Often candidates will be able to improvise their way through the generalist questions but come unstuck as soon as they’re asked something very specific.
 
-In general, people are easily fooled by confident, eloquent speakers. It’s easy for a charlatan to make it sound like they know what they’re talking about when they really don’t.
-
-On the flip side, a slightly diffident data scientist might turn out to be exactly the right person for the job.
+In general, people are easily fooled by confident, eloquent speakers. It’s easy for a charlatan to make it sound like they know what they’re talking about when they really don’t. On the flip side, a slightly diffident data scientist might turn out to be exactly the right person for the job.
 
 ## Testing data science candidates
 
-When devising a data science test, you can forget about using brainteasers, personality tests or clever questions the interviewer thought up in order to demonstrate their intelligence. Doing well in such tests is a poor predictor of on-the-job performance.
+When devising a data science test, you can forget about using brainteasers, personality tests or clever questions the interviewer thought up in order to demonstrate their own intelligence. Doing well in such tests is a poor predictor of on-the-job performance.
 
 The best way to test a prospective hire is to have them perform work that is as close as possible to the actual role. This is often called a _work sample test_.
 
@@ -145,7 +143,7 @@ Without this knowledge, accepting a new role can feel a bit like walking across 
 
 **Hey, it’s time for another shameless plug!** Remember when we said we’re putting together a free work sample test and scoring rubric just for you? We’ll also create a sample job description for you to use as a template. [Let us know](https://www.google.com/) if you’d like to be notified when these are ready. As always, you’re welcome to customise our materials as much as you like.
 
-## What skills and experience should you expect from a data scientist?
+## Skills and experience
 
 Data scientists are the ultimate jacks of all trades.
 
