@@ -8,7 +8,7 @@ header:
 ---
 Software engineers often complain about the endless technical tests they have to overcome in order to get hired.
 
-For programmers who are relatively green it’s perhaps understandable that they would be tested heavily, but it’s somewhat galling if you have 10 years’ experience in a domain and get asked to answer basic programming and algorithms problems. You don’t ask an accountant to solve simple arithmetic problems before you allow them to file your taxes.
+For programmers who are relatively green it’s perhaps understandable that they'd be tested heavily, but it’s somewhat galling if you have 10 years’ experience in a domain and get asked to answer basic programming and algorithms problems. You don’t ask an accountant to solve simple arithmetic problems before you allow them to file your taxes.
 
 Anyway, the reason for all the testing is simple. Most programmers are [rubbish at programming](https://blog.codinghorror.com/why-cant-programmers-program/), so you have no choice but to test them extensively if you don’t want to inadvertently hire a smooth-talking knucklehead.
 
@@ -315,4 +315,19 @@ And if that’s not enough, we’ll even supply you with pastries.
 
 Last but not least, we’re putting together a free **Hire a Data Scientist package** containing a sample work sample test (ha), objective scoring rubric and example job description.
 
-You can use this package as a template for your own data science hiring needs. [Let us know](https://www.google.com/) if you’d like us to send the package to you when it's ready.
+You can use this package as a template for your own data science hiring needs. [Let us know](https://www.google.com/){: .btn .btn--primary} if you’d like us to send the package to you when it's ready.
+
+-----------------------
+
+P.S. If you liked this article, you might enjoy our DataPastry newsletter. Sign up below for:
+* Our free ebook, *What Every Manager Should Know Before Hiring a Data Scientist*
+* Early access to the best DataPastry blog posts, delivered straight to your inbox
+* Early access to Pastry Boxes/Widgets: *How to Hire a Data Scientist*, *How to Value a Machine Learning Model/ROI ML Calculator*, *Find the Right Data Professional*
+* Loads of actionable tips on how to set up your data team, infrastructure and more
+* The chance to win 100,000 pastries delivered directly to your office
+
+P.S. Enjoyed this article? Sign up for our ebook, *What Every Manager Should Know Before Hiring a Data Scientist*, which contains everything we talked about here and much more.
+
+<form name="newsletter" method="POST" data-netlify="true">
+    <input type="email" name="email" placeholder="me@awesome.com" /> <button type="submit" class="btn btn--primary">Sign up</button>
+</form>
