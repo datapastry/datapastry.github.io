@@ -10,3 +10,17 @@
 .archive__item-title a {
   text-decoration: none;
 }
+
+.newsletter_promo {
+  background-color: #ffffff;
+  padding: 10px;
+  border:1px solid #aaa;
+  form {
+    background-color: inherit;
+    width: 75%;
+    margin: 0 auto;
+  }
+  input {
+    width: 50%;
+  }
+}
