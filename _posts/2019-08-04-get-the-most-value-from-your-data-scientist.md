@@ -388,3 +388,4 @@ In conclusion, it’s only human to be biased -- but if you’re aware of your o
 Your data scientist won’t always be right but don’t override them unless you’re completely sure of your ground. If you’ve hired someone good, it’s far more likely that they’ve drawn the correct conclusion from your data than you.
 
 Much like in science, try not to fall in love with your own hypotheses and instead **let the data inform your decisions**.
+{% include post_footer.html %}
