@@ -46,8 +46,13 @@ Coming up with a good work sample test is not easy, however. There are a couple 
     You can also incorporate a system design problem into your task (e.g. “how would you productionise this model to serve predictions to hundreds of users per second?”) if it’s relevant to the job.
 *   Try to ensure your test is substantive enough to allow you to gauge the applicant’s code quality. Clean, well-structured code is something many data scientists struggle to achieve. 
 
-**Shameless plug:** We’re putting together a free work sample test and scoring rubric that you can use as a basis for your own test. [Let us know](https://google.com) if you’d like access and we’ll send it over when it’s ready.
+<div class="newsletter_promo_inline" markdown="1">
+**Shameless plug**
 
+We’re putting together a free work sample test and scoring rubric that you can use as a basis for your own test.
+
+[Subscribe](#newsletter_subscribe) to our newsletter if you’d like access and we’ll send it over when it’s ready. 
+</div>
 We’d suggest allowing candidates to do the test at home instead of insisting that it be conducted in person. This will save time and money for both parties.
 
 If the candidate is successful at the work sample stage, you can invite them over to your office to present their results.
@@ -141,7 +146,17 @@ It’s really nice if you say what a “day in the life of a data scientist” w
 
 Without this knowledge, accepting a new role can feel a bit like walking across a motorway with your eyes closed in the hope of finding a pastry on the other side.
 
-**Hey, it’s time for another shameless plug!** Remember when we said we’re putting together a free work sample test and scoring rubric just for you? We’ll also create a sample job description for you to use as a template. [Let us know](https://www.google.com/) if you’d like to be notified when these are ready. As always, you’re welcome to customise our materials as much as you like.
+<div class="newsletter_promo_inline" markdown="1">
+**Hey, it’s time for another shameless plug!**
+
+Remember when we said we’re putting together a free work sample test and scoring rubric just for you?
+
+We’ll *also* create a sample job description for you to use as a template. Aren't we nice?
+
+[Subscribe](#newsletter_subscribe) to our newsletter if you’d like to be notified when these are ready.
+
+As always, you’re welcome to customise our materials as much as you like.
+</div>
 
 ## Skills and experience
 
