@@ -144,5 +144,5 @@ _(That's it for this article series! Stay tuned for future DataPastry articles: 
 
 _If you're of a more technical bent, we'll also talk about how to design your data infrastructure in a way that won't make your data analysts and scientists cry. Spoiler: we think Apache Spark is mostly useless._
 
-_Want to discuss your own specific data problems? Book a [free consultation](https://calendly.com/isk-pastry/consult) with us -- we're here to help!)_
+_Want to discuss your own specific data problems? Book a [free consultation]({{ site.consultation_url }}) with us -- we're here to help!)_
 {% include post_footer.html %}
