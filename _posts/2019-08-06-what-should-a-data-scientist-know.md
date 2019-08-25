@@ -3,7 +3,7 @@ title: "What should a data scientist know?"
 author: Iskander Yusof
 excerpt: "Something about everything and everything about something."
 header:
-  overlay_image: /assets/images/header-pastry.jpg
+  overlay_image: /assets/images/header-pastry-5.jpg
   overlay_filter: 0.6
 ---
 _(Continued from [Part 1]({{ site.baseurl }}{% post_url 2019-08-05-how-to-hire-a-data-scientist %}) of this series, where I explained how to test data scientists so you don't accidentally hire a baboon.)_
@@ -107,7 +107,7 @@ These are steps we’d suggest using when hiring a data scientist. You don’t h
 
 3. **Work sample test (ideally take-home)**
 
-    I’m pretty sure I’ve already discussed this. Please scroll up.
+    Hmm. I talked about this in the [previous article]({{ site.baseurl }}{% post_url 2019-08-05-how-to-hire-a-data-scientist %}).
 
     TL; DR version: put together a concise test that’s representative of the job itself. And let us know if you’d like an example of a test and scoring rubric to use as a template.
 

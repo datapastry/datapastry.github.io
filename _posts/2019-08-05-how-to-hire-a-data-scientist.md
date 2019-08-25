@@ -3,8 +3,8 @@ title: "How to hire a data scientist"
 author: Iskander Yusof
 excerpt: "It takes one to know one."
 header:
-  overlay_image: /assets/images/header-pastry.jpg
-  overlay_filter: 0.6
+  overlay_image: /assets/images/header-pastry-4.jpg
+  overlay_filter: 0.5
 ---
 Software engineers often complain about the endless technical tests they have to overcome in order to get hired.
 
@@ -147,6 +147,8 @@ If you really do think writing JavaScript might be part of a candidate’s respo
 It’s really nice if you say what a “day in the life of a data scientist” would be like at your company. An experienced candidate should ask about this anyway, of course; there’s very little consistency between data science operations in different companies.
 
 Without this knowledge, accepting a new role can feel a bit like walking across a motorway with your eyes closed in the hope of finding a pastry on the other side.
+
+---
 
 Oh, remember when we said we’re putting together a free work sample test and scoring rubric just for you?
 
