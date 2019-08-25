@@ -34,10 +34,12 @@ Coming up with a good work sample test is not easy, however. There are a couple 
 
 
 
-*   You’ll need to distill the main elements of the job into a test that is short enough to be doable within a short time frame.
+*   You’ll need to distill the main elements of the job into a test that is concise enough to be doable within a short time frame.
     
     We’d suggest focusing on testing things that *can’t* be learnt quickly on the job.
+
 *   You should devise an objective scoring rubric to grade each candidate.
+
 *   You should standardise your test to ensure every candidate is treated in the exact same way. Ideally you should calibrate your scoring using data scientists you’ve worked with before.
     
     As a bare minimum, at least one person should successfully complete the test before you give it to a candidate.
@@ -168,7 +170,7 @@ We’d advise customising the skills you test based on the specific role for whi
 
 Still, there are more similarities than differences in data science roles. Below you can find the types of skills and experience we’ve found to be especially relevant.
 
-This is not intended to be an exhaustive list, nor should you expect to find a data scientist who ticks all these boxes. Again, we’d recommend tailoring your test based on what is genuinely important for your specific role.
+This is not intended to be an exhaustive list, nor should you expect to find a data scientist who ticks all these boxes. Again, we’d recommend tailoring your questions based on what is genuinely important for your specific role.
 
 
 *   **Machine Learning**
@@ -223,7 +225,7 @@ This is not intended to be an exhaustive list, nor should you expect to find a d
     *   Verbal and written communication skills: how good are they at communicating technical subjects to a lay audience? **Can they communicate the value of what they do?**
     *   How much emphasis do they place on the tools and techniques they use vs. the business value generated from their work?
     *   **Process and management:**
-        *   Experience leading a team/project
+        *   Experience leading teams/projects
         *   Experience working in an agile development environment
         *   Communication/management style
         *   Experience working with different stakeholders when delivering a data science project
