@@ -3,8 +3,8 @@ title: "How to successfully deliver a data science project"
 author: Iskander Yusof
 excerpt: "And keep your data scientist happy at the same time."
 header:
-  overlay_image: /assets/images/header-pastry.jpg
-  overlay_filter: 0.6
+  overlay_image: /assets/images/header-pastry-9.jpg
+  overlay_filter: 0.7
 ---
 
 _(Continued from Parts [1]({{ site.baseurl }}{% post_url 2019-08-07-get-the-most-value-from-your-data-scientist %}) and [2]({{ site.baseurl }}{% post_url 2019-08-08-what-your-data-scientist-should-be-doing %}), where I explained how to onboard your data scientist and what they should be doing from day to day in order to deliver maximum value.)_

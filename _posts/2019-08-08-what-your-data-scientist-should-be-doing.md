@@ -3,8 +3,8 @@ title: "What your data scientist *should* be doing"
 author: Iskander Yusof
 excerpt: "Besides eating your pastries that is."
 header:
-  overlay_image: /assets/images/header-pastry.jpg
-  overlay_filter: 0.6
+  overlay_image: /assets/images/header-pastry-7.jpg
+  overlay_filter: 0.7
 ---
 _(Continued from [Part 1]({{ site.baseurl }}{% post_url 2019-08-07-get-the-most-value-from-your-data-scientist %}) of this series, where I explained how to onboard your data scientist so they're in a position to deliver business value ASAP.)_
 ## What to expect from your data scientist

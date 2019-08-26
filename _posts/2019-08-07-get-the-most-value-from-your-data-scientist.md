@@ -3,8 +3,8 @@ title: "Get the most value from your data scientist"
 author: Iskander Yusof
 excerpt: "Turn your shiny data into shiny gold."
 header:
-  overlay_image: /assets/images/header-pastry.jpg
-  overlay_filter: 0.6
+  overlay_image: /assets/images/header-pastry-6.jpg
+  overlay_filter: 0.7
 ---
 Most data scientists [don’t generate quantifiable business value]({{ site.baseurl }}{% post_url 2019-08-18-what-data-scientists-actually-do-all-day %}). You can easily test this for yourself by asking a couple of data scientists about the projects they’ve worked on.
 
