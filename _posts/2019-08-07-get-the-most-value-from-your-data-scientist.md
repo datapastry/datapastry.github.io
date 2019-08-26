@@ -68,6 +68,13 @@ Give them the broad outlines of your problem and they should be able to work wit
 
 Let your data scientist take the lead on how to solve your problem, but help them out regarding the business context and by facilitating access to the resources they need (in terms of data, tools and people).
 
+<figure>
+	<a href="{{ site.baseurl }}/assets/images/venn.png"><img src="{{ site.baseurl }}/assets/images/venn-small.png" alt="Managing a data scientist: who does what?"></a>
+	<figcaption>How to divide responsibilities with your data scientist.</figcaption>
+</figure>
+
+**Your job is to be a facilitator, not a dictator.**
+
 I can’t count the number of times I’ve been told exactly _how_ to solve a data science problem by a nontechnical person.
 
 This is usually an incredibly bad idea: unless you yourself are a skilled data scientist, it’s very unlikely that you’ll have an idea of the optimal approach.
@@ -81,10 +88,6 @@ Of course, you should still put forward any ideas you have, but be very consciou
 And ask your data scientist to propose a solution _before_ you offer some suggestions of your own. For the most part, you should defer to your data scientist regarding what they say needs to be done to solve your data problems.
 
 If you don’t trust them to do this, you’re basically admitting that you made a bad hire!
-
-**Remember: your job is to be a facilitator, not a dictator.**
-
-**_<Venn diagram with two circles: your responsibilities vs. data scientist’s responsibilities. For you: setting business context, relaying important business outcomes/KPIs, giving high-level problem definition, facilitating communications, helping with access to tools and data. For data scientist: making problem definition precise, designing and implementing solution, high-frequency/granular communications with relevant team members. For both: championing work for/selling work to other stakeholders, defining success metrics, resourcing (data, tools, people)>_**
 
 ### Success metrics
 
