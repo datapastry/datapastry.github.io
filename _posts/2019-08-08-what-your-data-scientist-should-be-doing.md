@@ -1,11 +1,12 @@
 ---
-title: "Get the most value from your data scientist2"
+title: "What your data scientist *should* be doing"
 author: Iskander Yusof
-excerpt: "Turn your shiny data into shiny gold."
+excerpt: "Besides eating your pastries that is."
 header:
   overlay_image: /assets/images/header-pastry.jpg
   overlay_filter: 0.6
 ---
+_(Continued from [Part 1]({{ site.baseurl }}{% post_url 2019-08-07-get-the-most-value-from-your-data-scientist %}) of this series, where I explained how to onboard your data scientist so they're in a position to deliver business value ASAP.)_
 ## What to expect from your data scientist
 
 Data scientists excel at solving “prediction problems” where they have to predict something based on historical data.
@@ -16,13 +17,15 @@ In this example, three things will need to happen:
 
 
 
-1. **Preparation:** Before your data scientist can do any real work, they’ll need to get hold of your data and knock it into a shape where they can do some fancy predictive modelling.
+1. ***Preparation:*** Before your data scientist can do any real work, they’ll need to get hold of your data and knock it into a shape where they can do some fancy predictive modelling.
 	
 	They’ll also need tools to work with the data and ideally should have access to people who can tell them more about the data they’ll be working with.
 
 	Even the smartest data scientist won’t be able to figure out what a field called `xgr671` means without any context.
-2. **Prediction:** Your data scientist will need to build a _model_ that predicts which customers are most likely to churn. 
-3. **Action:** Your company will take some sort of action based on the model’s predictions.
+
+2. ***Prediction:*** Your data scientist will need to build a _model_ that predicts which customers are most likely to churn.
+
+3. ***Action:*** Your company will take some sort of action based on the model’s predictions.
 	
 	For example, you might proactively contact customers who are likely to churn and offer them incentives to stay with you.
 
@@ -152,5 +155,7 @@ So now you have a new requirement for the churn model: it doesn’t just need to
 
 Now your data scientist will have to actually earn that high salary you’re paying them!
 
-_(Want to discuss your own specific data problems? Book a [free consultation]({{ site.consultation_url }}) with us -- we're here to help!)_
+_(In the [final part]({{ site.baseurl }}{% post_url 2019-08-09-how-to-successfully-deliver-a-data-science-project %}) of this series, I'll talk about how to ensure your data science project is delivered successfully._
+
+_Want to discuss your own specific data problems? Book a [free consultation](https://calendly.com/isk-pastry/consult) with us -- we're here to help!)_
 {% include post_footer.html %}

@@ -1,5 +1,5 @@
 ---
-title: "Get the most value from your data scientist1"
+title: "Get the most value from your data scientist"
 author: Iskander Yusof
 excerpt: "Turn your shiny data into shiny gold."
 header:
@@ -42,9 +42,9 @@ Obviously you’ll need to tell your data scientist what data you actually have 
 
 This sounds straightforward but often you won’t have detailed knowledge of what exactly you have, the quality of the data will be questionable and -- especially in larger companies -- you might even struggle to convince the data owners to grant you access.
 
-The worst-case scenario is that you’re not even in a position where a data scientist can help you, but of course you did [read our other article](https://drive.google.com/a/datapastry.com/open?id=1DvfXuFhdlh0wngcdmfvLdZCeKfodyT43V72YPLFdKvM) so you won’t have made that mistake…
+The worst-case scenario is that you’re not even in a position where a data scientist can help you, but of course you did [read our other article]({{ site.baseurl }}{% post_url 2019-08-19-are-you-ready-for-data-science %}) so you won’t have made that mistake…
 
-Sometimes you’ll have the right data but the data scientist will have to do some work to make it usable for their purposes. If you’ve [hired the right person](https://drive.google.com/a/datapastry.com/open?id=1R-hkHvkr8vZdXPscrKRBUHE5GTMwnDkQtifbgbtmqos), they won’t complain about the fact that they have to do some non-data science tasks before they get to the fun stuff.
+Sometimes you’ll have the right data but the data scientist will have to do some work to make it usable for their purposes. If you’ve [hired the right person]({{ site.baseurl }}{% post_url 2019-08-05-how-to-hire-a-data-scientist %}), they won’t complain about the fact that they have to do some non-data science tasks before they get to the fun stuff.
 
 In truth, I often like doing basic data engineering tasks myself as I can then be confident that the data ends up in the shape I want (and if it doesn’t, then I’ll only have myself to blame). I’ll also learn a bunch of useful stuff about the data itself in this process.
 
@@ -58,7 +58,7 @@ If this isn’t possible (e.g. if you have a distributed team), at least ensure 
 
 Also, don’t assume that because data scientists are highly technical, they won’t know how to talk to people in a nontechnical way. Unlike software engineers, we’re not all social outcasts (some of us even _like_ people).
 
-A data scientist should have no problem switching between a technical discussion with a programmer and a conversation with a senior executive who has a completely different mindset. This is why it’s particularly important to test nontechnical communication skills during the [interview](https://drive.google.com/a/datapastry.com/open?id=1R-hkHvkr8vZdXPscrKRBUHE5GTMwnDkQtifbgbtmqos).
+A data scientist should have no problem switching between a technical discussion with a programmer and a conversation with a senior executive who has a completely different mindset. This is why it’s particularly important to test nontechnical communication skills during the [interview]({{ site.baseurl }}{% post_url 2019-08-06-what-should-a-data-scientist-know %}).
 
 ### Micromanagement
 
@@ -96,12 +96,15 @@ Most likely you’ll have an idea of which metrics you believe your data scienti
 
 Be realistic: in many situations, your data scientist won’t be able to optimise for metrics such as revenue or retention directly.
 
-Instead, you’ll want metrics that are fairly narrowly-defined and easy to measure, but plausibly correlated with business value. **<link to Metrics and business value in You don’t need a data scientist article>**
+Instead, you’ll want metrics that are fairly narrowly-defined and easy to measure, but [plausibly correlated with business value]({{ site.baseurl }}{% post_url 2019-08-19-are-you-ready-for-data-science %}#metrics-and-business-value).
 
 Also, keep in mind that less is often more: it can be very difficult to move the needle, so ideally your data scientist won’t be working to optimise more than one metric at a time. 
 
 A good outcome from onboarding is an initial [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) project for your data scientist to get stuck into. Discuss with them what knowledge and resources they’ll need to complete this project in terms of data, tools, people and metrics.
 
 Once they’ve completed their first project, you’ll both have a much better understanding of what’s possible for your business and can take things from there.
-_(Want to discuss your own specific data problems? Book a [free consultation]({{ site.consultation_url }}) with us -- we're here to help!)_
+
+_(In Parts [2]({{ site.baseurl }}{% post_url 2019-08-08-what-your-data-scientist-should-be-doing %}) and [3]({{ site.baseurl }}{% post_url 2019-08-09-how-to-successfully-deliver-a-data-science-project %}) of this series, I'll talk about what your data scientist **should** be doing from day to day in order to deliver value. I'll also explain how to successfully deliver your data science projects._
+
+_Want to discuss your own specific data problems? Book a [free consultation](https://calendly.com/isk-pastry/consult) with us -- we're here to help!)_
 {% include post_footer.html %}

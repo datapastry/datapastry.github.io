@@ -1,11 +1,14 @@
 ---
-title: "Get the most value from your data scientist3"
+title: "How to successfully deliver a data science project"
 author: Iskander Yusof
-excerpt: "Turn your shiny data into shiny gold."
+excerpt: "And keep your data scientist happy at the same time."
 header:
   overlay_image: /assets/images/header-pastry.jpg
   overlay_filter: 0.6
 ---
+
+_(Continued from Parts [1]({{ site.baseurl }}{% post_url 2019-08-07-get-the-most-value-from-your-data-scientist %}) and [2]({{ site.baseurl }}{% post_url 2019-08-08-what-your-data-scientist-should-be-doing %}), where I explained how to onboard your data scientist and what they should be doing from day to day in order to deliver maximum value.)_
+
 ## Minimum viable data science
 
 For your first data science project, your data scientist should ideally work through the entire process from building a machine learning model through to live deployment as quickly as possible (think weeks rather than months).
@@ -123,7 +126,7 @@ It’s common for companies to claim that they make rational decisions based on 
 
 Try not to be one of the irrational people. The list of possible ways in which you can be biased would be [far too lengthy](https://en.wikipedia.org/wiki/List_of_cognitive_biases) a detour for this article, but _confirmation bias_ is a huge problem in this area.
 
-It’s cathartic for me to talk about my experience with this, so excuse me while I rant for a few paragraphs...
+It’s cathartic for me to talk about my experience with this, so excuse me while I ruin the end of this article by ranting for a few paragraphs...
 
 Occasionally I’ll be given a data task by an important stakeholder as well as a set of thoughts on where to look first, what might be most predictive and so on.
 
@@ -145,5 +148,7 @@ Your data scientist won’t always be right but don’t override them unless you
 
 Much like in science, try not to fall in love with your own hypotheses and instead **let the data inform your decisions**.
 
-_(Want to discuss your own specific data problems? Book a [free consultation]({{ site.consultation_url }}) with us -- we're here to help!)_
+_(That's it for this article series! Stay tuned for future DataPastry articles: we'll explain how to do data science on a budget and how to design your data infrastructure to deliver max value for min effort._
+
+_Want to discuss your own specific data problems? Book a [free consultation]({{ site.consultation_url }}) with us -- we're here to help!)_
 {% include post_footer.html %}
