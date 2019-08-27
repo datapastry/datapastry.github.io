@@ -17,15 +17,15 @@ In this example, three things will need to happen:
 
 
 
-1. ***Preparation:*** Before your data scientist can do any real work, they’ll need to get hold of your data and knock it into a shape where they can do some fancy predictive modelling.
+1. **Preparation:** Before your data scientist can do any real work, they’ll need to get hold of your data and knock it into a shape where they can do some fancy predictive modelling.
 	
 	They’ll also need tools to work with the data and ideally should have access to people who can tell them more about the data they’ll be working with.
 
 	Even the smartest data scientist won’t be able to figure out what a field called `xgr671` means without any context.
 
-2. ***Prediction:*** Your data scientist will need to build a _model_ that predicts which customers are most likely to churn.
+2. **Prediction:** Your data scientist will need to build a _model_ that predicts which customers are most likely to churn.
 
-3. ***Action:*** Your company will take some sort of action based on the model’s predictions.
+3. **Action:** Your company will take some sort of action based on the model’s predictions.
 	
 	For example, you might proactively contact customers who are likely to churn and offer them incentives to stay with you.
 
@@ -61,9 +61,12 @@ To help your data scientist come up with good features, make sure they have acce
 
 When all is said and done, your data scientist will have expended a lot of blood, sweat and tears to construct a big table with one row for each customer showing whether they churned and their corresponding feature values.
 
-This is what they will use to build a machine learning model to predict churn. Hopefully their model will be awesome. But it’s also possible that their model will be rubbish.
+<figure>
+	<a href="{{ site.baseurl }}/assets/images/churn-data.png"><img src="{{ site.baseurl }}/assets/images/churn-data-small.png" alt="Example features for predicting churn"></a>
+	<figcaption>Features for each customer and whether or not they churned. In reality there'd be a lot more rows, a lot more columns and everyone would have a slightly different definition of "churn".</figcaption>
+</figure>
 
-**_include example table for churn_**
+This is what they will use to build a machine learning model to predict churn. Hopefully their model will be awesome. But it’s also possible that their model will be rubbish.
 
 ### The prediction stage
 
