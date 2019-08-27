@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/images/header-pastry-6.jpg
   overlay_filter: 0.7
 ---
-Most data scientists [don’t generate quantifiable business value]({{ site.baseurl }}{% post_url 2019-08-18-what-data-scientists-actually-do-all-day %}). You can easily test this for yourself by asking a couple of data scientists about the projects they’ve worked on.
+Most data scientists [don’t generate quantifiable business value]({{ site.baseurl }}{% post_url 2019-08-18-what-data-scientists-actually-do-all-day %}#what-data-scientists-actually-do). You can easily test this for yourself by asking a couple of data scientists about the projects they’ve worked on.
 
 Ask about the impact of their work. You’ll typically hear proud statements such as “I improved the F1 score by 30%” or “I achieved an area under the ROC curve of 0.89”.
 
@@ -44,7 +44,7 @@ This sounds straightforward but often you won’t have detailed knowledge of wha
 
 The worst-case scenario is that you’re not even in a position where a data scientist can help you, but of course you did [read our other article]({{ site.baseurl }}{% post_url 2019-08-19-are-you-ready-for-data-science %}) so you won’t have made that mistake…
 
-Sometimes you’ll have the right data but the data scientist will have to do some work to make it usable for their purposes. If you’ve [hired the right person]({{ site.baseurl }}{% post_url 2019-08-05-how-to-hire-a-data-scientist %}), they won’t complain about the fact that they have to do some non-data science tasks before they get to the fun stuff.
+Sometimes you’ll have the right data but the data scientist will have to do some work to make it usable for their purposes. If you’ve [hired the right person]({{ site.baseurl }}{% post_url 2019-08-05-how-to-hire-a-data-scientist %}), they won’t complain about having to do some non-data science tasks before they get to the fun stuff.
 
 In truth, I often like doing basic data engineering tasks myself as I can then be confident that the data ends up in the shape I want (and if it doesn’t, then I’ll only have myself to blame). I’ll also learn a bunch of useful stuff about the data itself in this process.
 
@@ -54,7 +54,7 @@ Making sure data scientists have easy access to people they’ll need to speak t
 
 Introduce your data scientist to the team members they’ll likely need to work with on a daily basis and try to make sure they’re seated in close proximity to these people.
 
-If this isn’t possible (e.g. if you have a distributed team), at least ensure it’s not a huge hassle for your data scientist to reach out to their main points of contact. You won’t want your data scientist sitting on their own in a silo.
+If this isn’t possible (e.g. you have a distributed team), at least ensure it’s not a huge hassle for your data scientist to reach out to their main points of contact. You won’t want your data scientist sitting on their own in a silo.
 
 Also, don’t assume that because data scientists are highly technical, they won’t know how to talk to people in a nontechnical way. Unlike software engineers, we’re not all social outcasts (some of us even _like_ people).
 
@@ -62,7 +62,7 @@ A data scientist should have no problem switching between a technical discussion
 
 ### Micromanagement
 
-If you’ve hired only one data scientist, they _should_ be experienced and so you shouldn’t need to dictate to them exactly what they need to be doing from day to day.
+If you’ve hired only one data scientist, they _should_ be experienced. You shouldn’t need to dictate to them exactly what they need to be doing from day to day.
 
 Give them the broad outlines of your problem and they should be able to work with you to make the problem precise and solvable using data science.
 
@@ -85,7 +85,7 @@ This is a waste of everyone’s time and your money.
 
 Of course, you should still put forward any ideas you have, but be very conscious of how they might be perceived. You should really prioritise describing the problem rather than suggesting possible solutions.
 
-And ask your data scientist to propose a solution _before_ you offer some suggestions of your own. For the most part, you should defer to your data scientist regarding what they say needs to be done to solve your data problems.
+It'll help if you ask your data scientist to propose a solution _before_ you offer some suggestions of your own. For the most part, you should defer to your data scientist regarding what they say needs to be done to solve your data problems.
 
 If you don’t trust them to do this, you’re basically admitting that you made a bad hire!
 
@@ -93,11 +93,11 @@ If you don’t trust them to do this, you’re basically admitting that you made
 
 Perhaps the most important part of onboarding is to agree on one or more metrics that your data scientist is responsible for improving.
 
-This is a huge topic that I can’t possibly do justice to here, but the first step is simply to tell your data scientist what metrics matter to the business as a whole. This will help frame a discussion of which metrics they’ll be able to improve.
+This is a huge topic that deserves its own article, but the first step is simply to tell your data scientist what metrics matter to the business as a whole. This will help frame a discussion of which metrics they’ll be able to improve.
 
 Most likely you’ll have an idea of which metrics you believe your data scientist can help with, but they might be able to move the needle on other metrics as well. So it’s worth letting them know about all the metrics of interest to the business.
 
-Be realistic: in many situations, your data scientist won’t be able to optimise for metrics such as revenue or retention directly.
+**Be realistic:** in many situations, your data scientist won’t be able to optimise for metrics such as revenue or retention directly.
 
 Instead, you’ll want metrics that are fairly narrowly-defined and easy to measure, but [plausibly correlated with business value]({{ site.baseurl }}{% post_url 2019-08-19-are-you-ready-for-data-science %}#metrics-and-business-value).
 
@@ -105,7 +105,7 @@ Also, keep in mind that less is often more: it can be very difficult to move the
 
 A good outcome from onboarding is an initial [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) project for your data scientist to get stuck into. Discuss with them what knowledge and resources they’ll need to complete this project in terms of data, tools, people and metrics.
 
-Once they’ve completed their first project, you’ll both have a much better understanding of what’s possible for your business and can take things from there.
+Once they’ve completed their first project, you’ll both have a much better understanding of what they can contribute to your business and can take things from there.
 
 _(In Parts [2]({{ site.baseurl }}{% post_url 2019-08-08-what-your-data-scientist-should-be-doing %}) and [3]({{ site.baseurl }}{% post_url 2019-08-09-how-to-successfully-deliver-a-data-science-project %}) of this series, I'll talk about what your data scientist **should** be doing from day to day in order to deliver value. I'll also explain how to successfully deliver your data science projects._
 

@@ -35,7 +35,7 @@ A good data scientist will have their eye on the whole picture instead of focusi
 
 ### The preparation stage
 
-If your data scientist has access to a large quantity of clean, well-documented historical data on whatever it is you want to predict, then their job will be _much_ easier and they’ll be able to get to the next stage in no time at all.
+If your data scientist has access to a large amount of clean, well-documented historical data on whatever it is you want to predict, then their job will be _much_ easier and they’ll be able to get to the next stage in no time at all.
 
 Yeah, this hardly ever happens in the real world.
 
@@ -78,17 +78,15 @@ Most likely the model won’t be perfectly accurate with its predictions, so you
 
 For many use cases you can still get a lot of utility out of a predictive model that is only slightly better than random guessing. On the other end of the spectrum, there are some problems for which you’ll require a very high level of accuracy.
 
-To decide which category your problem falls into, your data scientist will need to work backwards from your definition of “success” and determine how much accuracy the predictive model needs to achieve this.
+To decide which category your problem falls into, your data scientist will need to work backwards from your definition of “success” and determine how much accuracy the predictive model needs to achieve this. It might indeed turn out that you don’t need an extremely accurate model to achieve what you want.
 
-(Don’t forget that you should have defined this success metric during onboarding!)
-
-It might indeed turn out that you don’t need an extremely accurate model to achieve what you want.
+(Don’t forget that you should have [defined a success metric]({{ site.baseurl }}{% post_url 2019-08-07-get-the-most-value-from-your-data-scientist %}#success-metrics) during onboarding!)
 
 There are also dozens of metrics for assessing the accuracy of a machine learning model. It’s your data scientist’s responsibility to figure out which metric is most suitable for your problem.
 
 Try to ensure they give you at least a cartoon explanation of whatever metric they decide on. Also, don’t forget that this metric will usually not be the same as the success metric you agreed on during onboarding, although the two metrics should be clearly correlated.
 
-This is super-important to understand, so here’s an example.
+**This is super-important to understand**, so here’s an example.
 
 You might have defined success as minimising the “percentage of customers who churn in the next month”. And your data scientist’s metric will be aimed at determining how good their machine learning model is at finding out _which_ customers will churn.
 
@@ -108,9 +106,7 @@ Is the machine learning model meant to be a single component of a larger softwar
 
 Or will your data scientist be creating marketing segments to be used in campaigns run by your lead generation function?
 
-Model productionisation (or “deployment”) is a large topic in its own right but it doesn’t necessarily have to be complex, at least in the first iteration.
-
-Productionisation of your model _might_ need a data engineer but it isn’t always essential.
+Model productionisation (or “deployment”) is a large topic in its own right but it doesn’t necessarily have to be complex, at least in the first iteration. You _might_ need a data engineer but it isn’t always essential.
 
 If you’re just starting out with machine learning then we’d recommend hiring a data scientist who can at least do the basics of model deployment, especially in situations where the data science function isn’t yet mission-critical.
 
@@ -118,15 +114,15 @@ This is particularly true now that deployment in cloud environments like AWS or 
 
 ### Online evaluation
 
-So the outcome of the action stage will be a productionised model that is integrated into your business in some way.
+The outcome of the action stage will be a productionised model that is integrated into your business in some way.
 
-Once your data scientist’s model has gone live, its effectiveness should primarily be judged by your business-focused success metric. And this usually _won’t_ be the data science-specific metric your data scientist came up with in the first stage.
+Once your data scientist’s model has gone live, its effectiveness should primarily be judged by your business-focused success metric. And this usually _won’t_ be the offline data science-specific metric your data scientist came up with in the prediction stage.
 
 I know, I repeat myself, but this really is very important.
 
 The last thing you want is to be discussing improvements in the Kullback-Leibler divergence (what?) when you really need to be focused on a plain-English metric like “percentage of churners”.
 
-(Incidentally it’s common to monitor all sorts of metrics for a deployed model, including data science-specific metrics, but the purpose of this monitoring is _only_ to ensure everything is running as expected.)
+(Incidentally it’s common to monitor all sorts of metrics for a deployed model, including data science-specific metrics, but the purpose of this monitoring is primarily to ensure everything is running as expected.)
 
 Your data scientist should be responsible for demonstrating that the data science project has actually resulted in an improvement to your success metric.
 
@@ -154,7 +150,7 @@ Imagine that your data scientist builds a machine learning model that seems to b
 
 But if your service only works in one country then you have no chance of convincing someone who is permanently leaving the country to continue using it.
 
-So now you have a new requirement for the churn model: it doesn’t just need to identify customers who are likely to churn, but it also needs to find churn-tastic customers that can _also_ plausibly be convinced to stay.
+So now you have a new requirement for the churn model. It doesn’t just need to identify customers who are likely to churn, but it also needs to find churn-tastic customers who can _also_ plausibly be convinced to stay.
 
 Now your data scientist will have to actually earn that high salary you’re paying them!
 

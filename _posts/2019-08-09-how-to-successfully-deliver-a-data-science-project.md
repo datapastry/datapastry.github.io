@@ -19,6 +19,14 @@ Avoid the temptation to prematurely optimise any particular aspect of the proces
 
 Once your data scientist has completed their first MVP, the end-to-end framework for building, deploying and evaluating machine learning models will be in place. They can then build on this and iteratively improve their data science solution over time.
 
+Ensuring your data scientist’s work gets into production ASAP also means they’ll get visibility across the organisation very early on.
+
+You’ll find that other stakeholders suddenly take much more of an interest in your data scientist’s output once they’ve put something concrete out into the real world. Expect to receive a lot of feedback of both the positive and negative variety!
+
+All this will provide further fuel for your data scientist to improve the quality of their work.
+
+On the flip side, if your data scientist doesn’t quickly put their models into production, then it’ll be a long time -- if ever -- before you see any kind of value from them. It’s common to see data scientists in this position wasting time on various theoretical exercises that go nowhere (or watching YouTube videos). This is very demoralising!
+
 ## Empowering your data scientist
 
 To get the most value from a data scientist, you should act as a facilitator for the work they do and make it easy for them to effect change. But what does this actually mean?
@@ -48,13 +56,13 @@ Last but not least, if you have a data analyst you’ll want them to be seated c
 So in summary:
 
 *   Embed your data scientist into your engineering team. If you hired a strong coder then they should be fine in this environment.
-*   If you have a data analyst, put them next to your data scientist. It might be a bit scary for an analyst to work next to engineers, but most engineers are only really dangerous if provoked.
+*   If you have a data analyst, put them next to your data scientist. It might be a bit scary for an analyst to also work in the engineering team, but most engineers are only really dangerous if provoked.
 *   Facilitate easy communication between your data scientist and the relevant business/product folks.
 *   Hire a data scientist who can put on their business hat and convince nontechnical stakeholders of the value of their work.
 
 Incidentally, this team structure doesn’t need to change much if you have multiple data scientists.
 
-You might want to designate one data scientist as a team lead but often this doesn’t make sense, e.g. if each data scientist is highly experienced and has ownership of their own project.
+You might want to designate one data scientist as a team lead but often this doesn’t make sense, e.g. if each data scientist is highly experienced and has ownership of their own projects.
 
 ### Tools of the job
 
@@ -112,7 +120,7 @@ A smart data scientist should know which tasks have the most uncertainty and wor
 
 In general we’d recommend using timeboxed [spikes](https://en.wikipedia.org/wiki/Spike_(software_development)) to handle investigative work. Otherwise it’s too easy for a data scientist to go down a rabbit hole and spend a lot of time producing nothing.
 
-Also, if your data scientist can’t run experiments quickly then they’ll struggle to fit their work within an agile process, so this is another reason to make experimentation easy.
+Also, if your data scientist can’t run experiments quickly then they’ll struggle to fit their investigative work within an agile process, so this is another reason to make experimentation easy.
 
 If the outcome of a particular piece of investigative work is particularly important (e.g. if getting it right will move the needle significantly on a success metric), then it’s fair to be more generous with the time you allocate. But it’s rare for it to be impossible to divide work up into small chunks.
 
@@ -122,9 +130,9 @@ Sometimes the outcome of data science work won’t be a piece of software but a 
 
 ### Data-driven decisions are a lie
 
-It’s common for companies to claim that they make rational decisions based on data but in my experience very few companies are truly data-driven. This shouldn’t be very surprising -- companies are comprised of ordinary people, and ordinary people aren’t rational.
+It’s common for companies to claim that they make rational decisions based on data but in my experience very few companies are truly data-driven. This shouldn’t be very surprising. Companies are comprised of ordinary people, and ordinary people aren’t rational.
 
-Try not to be one of the irrational people. The list of possible ways in which you can be biased would be [far too lengthy](https://en.wikipedia.org/wiki/List_of_cognitive_biases) a detour for this article, but _confirmation bias_ is a huge problem in this area.
+But try not to be *too* irrational when drawing conclusions from data projects. The list of possible ways in which you can be biased would be [far too lengthy](https://en.wikipedia.org/wiki/List_of_cognitive_biases) a detour for this article, but _confirmation bias_ is a huge problem in this area.
 
 It’s cathartic for me to talk about my experience with this, so excuse me while I ruin the end of this article by ranting for a few paragraphs...
 
@@ -142,9 +150,9 @@ The best-case scenario is that the stakeholder will defer to the person who’s 
 
 At this point I just take the money and run.
 
-In conclusion, it’s only human to be biased -- but if you’re aware of your own irrationality, you’re already halfway to solving the problem.
+In summary, it’s only human to be biased -- but if you’re aware of your own irrationality, you’re already halfway to solving the problem.
 
-Your data scientist won’t always be right but don’t override them unless you’re completely sure of your ground. If you’ve hired someone good, it’s far more likely that they’ve drawn the correct conclusion from your data than you.
+Your data scientist won’t always be right but don’t override them based on authority alone. *If* you’ve hired someone good, it’s far more likely that they’ve drawn the correct conclusions from your data than you.
 
 Much like in science, try not to fall in love with your own hypotheses and instead **let the data inform your decisions**.
 
