@@ -63,7 +63,7 @@ So in summary:
 Incidentally, this team structure doesn’t need to change much if you have multiple data scientists.
 
 You might want to designate one data scientist as a team lead but often this doesn’t make sense, e.g. if each data scientist is highly experienced and has ownership of their own projects.
-
+{% include post_promo.html %}
 ### Tools of the job
 
 You’ve probably heard of the expression “a poor craftsman blames their tools”, but as far as data science is concerned these are _not_ good words to live by.

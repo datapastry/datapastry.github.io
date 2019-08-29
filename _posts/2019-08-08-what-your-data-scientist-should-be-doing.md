@@ -67,7 +67,7 @@ When all is said and done, your data scientist will have expended a lot of blood
 </figure>
 
 This is what they will use to build a machine learning model to predict churn. Hopefully their model will be awesome. But it’s also possible that their model will be rubbish.
-
+{% include post_promo.html %}
 ### The prediction stage
 
 In the churn example, you should expect that your data scientist will build a model that gives you an idea of who is most likely to churn.

@@ -59,7 +59,7 @@ If this isn’t possible (e.g. you have a distributed team), at least ensure it�
 Also, don’t assume that because data scientists are highly technical, they won’t know how to talk to people in a nontechnical way. Unlike software engineers, we’re not all social outcasts (some of us even _like_ people).
 
 A data scientist should have no problem switching between a technical discussion with a programmer and a conversation with a senior executive who has a completely different mindset. This is why it’s particularly important to test nontechnical communication skills during the [interview]({{ site.baseurl }}{% post_url 2019-08-06-what-should-a-data-scientist-know %}).
-
+{% include post_promo.html %}
 ### Micromanagement
 
 If you’ve hired only one data scientist, they _should_ be experienced. You shouldn’t need to dictate to them exactly what they need to be doing from day to day.

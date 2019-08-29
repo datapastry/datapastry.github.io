@@ -84,7 +84,7 @@ This is not intended to be an exhaustive list, nor should you expect to find a d
     *   Specific industry experience, e.g. fintech or retail
     *   Specific knowledge of sister fields like NLP or computer vision
     *   Specific knowledge of “advanced” ML and statistical techniques such as deep learning or Bayesian inference
-
+{% include post_promo.html %}
 ## The whole enchilada
 
 These are steps we’d suggest using when hiring a data scientist. You don’t have to stick to this precisely; the only parts we’d view as being essential are the work sample test and ensuing discussion. 

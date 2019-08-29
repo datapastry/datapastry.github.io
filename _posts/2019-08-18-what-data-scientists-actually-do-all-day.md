@@ -82,7 +82,7 @@ In fact, the opposite is true: ideally a data scientist should at least have a b
 And if your data scientist is going to be building a predictive model, it usually makes sense for them to perform the relevant data munging and cleaning tasks themselves.
 
 The crucial distinction is that when a data scientist does non-data science work, this should be simply be support for a real data science task. If the task as a whole doesn’t involve data science at all, then you’ve given the job to the wrong person.
-
+{% include post_promo.html %}
 ## Data science: it’s not magic
 
 Why are so many data scientists hired if they’re not really needed? My opinion is that this is due to two interrelated reasons: one is fear of missing out (FOMO), and the other is simply ignorance of what a data scientist can and can’t do.

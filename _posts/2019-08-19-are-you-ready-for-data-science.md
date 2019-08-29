@@ -58,7 +58,7 @@ For this reason, “data analyst” is the answer to a lot of these questions, b
 There’s a big difference between a data analyst who can produce visualisations for C-level executives using Tableau and a data analyst who can knock your data into good shape.
 
 You might prefer to use more specific titles such as “data quality analyst” when looking for a new hire. Sometimes you’ll get lucky and find all the skills you might conceivably need in a single person, but if not, you should identify your top priorities and aim to hire for those.
-
+{% include post_promo.html %}
 ## When _should_ you hire a data scientist?
 
 Only consider hiring a data scientist if you’re sure that your current team won’t be able to adequately address your problem.
