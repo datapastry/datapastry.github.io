@@ -117,7 +117,7 @@ author:
   #location         : "London, UK"
   #email            : "hello@datapastry.com"
   links:
-    - label: "Home"
+    - label: "Main Site"
       icon: "fas fa-fw fa-link"
       url: "https://datapastry.com"
     - label: "Email"
