@@ -25,10 +25,32 @@
   }
 }
 
-
 .newsletter_promo_inline {
   background-color: #ffffff;
   padding: 5px 5px 0px 5px;
   border:1px solid #aaa;
   margin-bottom: 10px;
+}
+
+.list_newsletter_promo {
+  background-color: #ffffff;
+  padding: 10px;
+  border:1px solid #aaa;
+  width: 95%;
+  margin: 10px auto;
+  form {
+    background-color: inherit;
+    width: 95%;
+    margin: 0 auto;
+  }
+  input {
+    width: 55%;
+  }
+}
+
+@media(min-width:767px) {
+	.list_newsletter_promo {
+		margin: 0 auto;
+		width: 55%;
+	}
 }
