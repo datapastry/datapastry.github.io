@@ -16,7 +16,7 @@ Unfortunately, the same is true of data science. Without testing a prospective h
 
 Most likely you’ll optimise for the ability to _talk_ about data science rather than actually _do_ data science, which is fine if all you want is a great communicator, but not so good if you need results.
 
-When I’m interviewing prospective hires, I’m painfully aware that I can be fooled by someone who uses roughly the right terminology and seems to follow the right kinds of processes.
+When I’m interviewing prospective hires, I’m painfully aware that I too can be fooled by someone who uses roughly the right terminology and seems to follow the right kinds of processes.
 
 I always find it interesting to see how candidates respond as I move from generalist “talk me through how you solved that problem”-type questions to more specific technical questions. Often candidates will be able to improvise their way through the generalist questions but come unstuck as soon as they’re asked something very specific.
 
@@ -86,7 +86,9 @@ Here are a couple of things that _should_ be no-brainers, but very rarely are:
 *   Right from the start, clearly communicate to the candidate your hiring process from CV review through to offer.
     
     All you need for this is a simple timeline indicating each stage of the process and who the candidate will be talking to. **Ensure you stick to your timeline.**
+
 *   Realistically HR will get involved with your hiring process at some point. Again, set expectations for candidates so they won’t be surprised if HR throws up a few roadblocks (we’ve all been there!).
+
 *   Don’t use a work sample test to get candidates to do real work for free. The data science community is fairly small and nobody will want to work with you again if you do this.
 
 If your hiring process is very unpleasant, many good candidates will just walk away instead of wasting time and energy with your company. There are plenty of other data science jobs out there.
