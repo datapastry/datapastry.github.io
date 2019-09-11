@@ -20,7 +20,7 @@ If it doesn’t even cross the mind of a data scientist to measure business valu
 
 In most cases, though, they _will_ be aware of the problem but they work in a company whose structure makes it impossible for them to generate (and measure) real business value.
 
-And let’s not be too harsh. Measuring and attributing business value correctly is not trivial! It shouldn’t be a huge surprise that you can’t hire a data scientist and magically get a 50% increase in profits.
+And let’s not be too harsh. Measuring and attributing business value correctly is not trivial! It shouldn’t be a huge surprise that you can’t hire a data scientist and magically get a 50% increase in profit.
 
 The goal of this article is to show you how to actually get value from your data scientist. This is in everyone’s interest. Data scientists like it if the work they’re doing has real impact, and you yourself won’t want to have expensive data scientists on your payroll who don’t actually do anything useful.
 
