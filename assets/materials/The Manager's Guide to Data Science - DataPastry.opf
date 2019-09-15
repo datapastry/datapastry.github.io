@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf51db5c-799b-4a94-898c-2c0eac8297c2</dc:identifier>
+        <dc:title>The Manager's Guide to Data Science</dc:title>
+        <dc:creator opf:role="aut">Iskander Yusof</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.47.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-07T23:00:00+00:00</dc:date>
+        <dc:description>The DataPastry guide to data science.</dc:description>
+        <dc:publisher>DataPastry</dc:publisher>
+        <dc:identifier opf:scheme="URI">G_8dtvhp_</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>data science</dc:subject>
+        <dc:subject>manager</dc:subject>
+        <dc:subject>data</dc:subject>
+        <dc:subject>science</dc:subject>
+        <dc:subject>guide</dc:subject>
+        <meta content="{&quot;Iskander Yusof&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-09-08T18:48:48+00:00" name="calibre:timestamp"/>
+        <meta content="Manager's Guide to Data Science, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Manager's Guide to Data Science, The - Iskander Yusof.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
