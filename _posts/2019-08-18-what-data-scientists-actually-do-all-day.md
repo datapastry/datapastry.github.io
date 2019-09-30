@@ -137,5 +137,5 @@ There’s plenty of value in data. Most of it can be extracted without a data sc
 
 _(In the [final part]({{ site.baseurl }}{% post_url 2019-08-19-are-you-ready-for-data-science %}) of this series, I'll say more about when you **should** and **shouldn't** hire a data scientist._
 
-_Want to discuss your own specific data problems? Book a [free consultation](https://calendly.com/isk-pastry/consult) with us -- we're here to help!)_
+_Want to discuss your own specific data problems? Book a [free consultation]({{ site.consultation_url }}) with us -- we're here to help!)_
 {% include post_footer.html %}

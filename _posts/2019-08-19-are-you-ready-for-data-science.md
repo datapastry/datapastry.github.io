@@ -77,7 +77,7 @@ It won’t always be obvious if your task is a prediction problem.
 
 If you have a business process that involves manually typing up handwritten forms and pushing the entries into a database, then a data scientist could help you automate this process. They would write software that “predicts” (recognises) what has been written in your forms based on historical handwriting data.
 
-If you're not sure what category your data problem falls into, just book a [free consultation](https://calendly.com/isk-pastry/consult) with us and we'll talk it over.
+If you're not sure what category your data problem falls into, just book a [free consultation]({{ site.consultation_url }}) with us and we'll talk it over.
 
 ## MVP data science
 
