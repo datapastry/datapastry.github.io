@@ -16,6 +16,7 @@
 
 ## Ebook
 
+1. Download all ebook formats from website
 1. Check that the book cover looks good for each format
 1. Check the table of contents for each format
 1. Check the images for each format
