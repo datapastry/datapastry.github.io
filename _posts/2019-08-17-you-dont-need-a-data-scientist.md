@@ -114,6 +114,8 @@ _At this point I listen closely. I know that the first thing the HM mentions is 
 
 **Me:** “Erm… all right then. I’ve always wanted to learn more about CRMs.”
 
+----
+
 In reality, of course, I’d turn down any task where I didn’t think I was able to do a good job.
 
 But weirdly, I’ve ended up “qualified” in a whole range of areas that have absolutely nothing to do with data science. This is because I’ve found myself doing “anything and everything to do with data”, and it’s not always obvious what a specific role will entail until you actually get started.
