@@ -124,7 +124,7 @@ If I had to describe my working life in four sentences, it would be “I solve p
 
 I’m pretty happy with this as it makes me an easy hire in most situations, but the fact of the matter remains: I’m a data scientist who doesn’t often do data science.
 
-_(In Parts [2]({{ site.baseurl }}{% post_url 2019-08-18-what-data-scientists-actually-do-all-day %}) and [3]({{ site.baseurl }}{% post_url 2019-08-19-are-you-ready-for-data-science %}) of this series, I'll talk about what data scientists **really** spend their time on. I'll also say more about when you **should** and **shouldn't** hire a data scientist._
+_(In Parts [2]({{ site.baseurl }}{% post_url 2019-10-07-what-data-scientists-actually-do-all-day %}) and [3]({{ site.baseurl }}{% post_url 2019-10-08-are-you-ready-for-data-science %}) of this series, I'll talk about what data scientists **really** spend their time on. I'll also say more about when you **should** and **shouldn't** hire a data scientist._
 
 _Want to discuss your own specific data problems? Book a [free consultation]({{ site.consultation_url }}) with us -- we're here to help!)_
 {% include post_footer.html %}
