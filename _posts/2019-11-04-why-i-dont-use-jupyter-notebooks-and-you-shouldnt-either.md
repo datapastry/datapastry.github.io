@@ -10,6 +10,15 @@ header:
 Why I don't use Jupyter notebooks and you shouldn't either
 ==========================================================
 
+> I don't like Notebooks
+<p style="text-align: right; margin-top: -1.3em">– Joel Grus</p>
+
+> Notebooks are the junk food of programming environments — addictive
+> and easy to consume, but if you eat it all the time you’ll end up
+> morbidly obese.
+<p style="text-align: right; margin-top: -1.3em">– Iskander Yusof</p>
+
+
 Jupyter notebooks are pretty much the first tool a data scientist
 pulls off the shelf when approaching a new problem. And with good
 reason. There's nothing like the immediate feedback you get when you
@@ -34,7 +43,7 @@ This is also their worst feature.
 In order to get that instant feedback, I find myself writing code in
 the global namespace, instead of writing functions. This is generally
 [considered bad practice](https://stackoverflow.com/a/19158418) in
-python development. The reason for that is that it's very hard to
+Python development. The reason for that is that it's very hard to
 reason about the effect of running a sequence of cells. They're all
 modifying the global namespace, which means your notebook is
 effectively a horribly large [state
@@ -46,7 +55,7 @@ It also leads to my next two objections...
 They discourage effective code reuse
 ------------------------------------
 
-The best way to reuse code in python is through functions and
+The best way to reuse code in Python is through functions and
 classes. In notebooks, the temptation is to reuse code through _cells_
 instead. Because you're using the global namespace, you are relying on
 cells being executed in a particular order. In order to reuse code in
@@ -84,6 +93,20 @@ sending it to someone.
 Of course you can put notebooks into source control. As long as no-one
 else is editing it at the same time, in which case, good luck trying
 to merge with their changes.
+
+
+What about testing?
+-------------------
+
+There's nothing like a few well written unit tests to find bugs in
+your code. And there's many a time when I've spent ten minutes waiting
+for an experiment to run only to find it breaks half-way through. If
+I'd had a quick test I could run first I wouldn't have had to wait.
+
+Unfortunately it's not just hard but nigh-on impossible
+to write unit tests for notebook cells. Again, if you actually write
+functions in notebooks you can do it, but then you lose the nice
+interactivity property.
 
 
 They're not PyCharm
