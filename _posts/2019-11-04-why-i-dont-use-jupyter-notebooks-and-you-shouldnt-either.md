@@ -3,12 +3,9 @@ title: "Why I don't use Jupyter notebooks and you shouldn't either"
 author: Daoud Clarke
 excerpt: "Jupyter notebooks give you instant feedback but lead to bad habits."
 header:
-  overlay_image: /assets/images/header-article.jpg
+  overlay_image: /assets/images/notebook.jpg
   overlay_filter: 0.6
 ---
-
-Why I don't use Jupyter notebooks and you shouldn't either
-==========================================================
 
 > I don't like Notebooks
 <p style="text-align: right; margin-top: -1.3em">– Joel Grus</p>
