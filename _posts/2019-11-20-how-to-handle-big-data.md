@@ -3,7 +3,7 @@ title: "How to handle big data"
 author: Daoud Clarke
 excerpt: "Think again before reaching for the big data tools."
 header:
-  overlay_image: /assets/images/header-article.jpg
+  overlay_image: /assets/images/doughnut-hand.jpg
   overlay_filter: 0.6
 ---
 
