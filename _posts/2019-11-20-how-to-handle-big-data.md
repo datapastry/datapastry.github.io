@@ -111,8 +111,13 @@ memory. When you do, there are several things you can do.
 There have been a few times when I have actually needed to train using
 a lot of data. Here are some things I learnt:
 
+* If it doesn't fit in memory, consider getting more memory. This can
+  be as simple as firing up a VM with lots of memory to run a big job
+  for a few hours. A data scientist's time is valuable, so it's often
+  more cost-effective to do this than to spend hours optimising for
+  memory or using big data tools.
 * Don't use Spark ML - it is normally orders of magnitude slower than
-  Scikit learn and the algorithms are also generally sub-optimal -
+  Scikit-learn and the algorithms are also generally sub-optimal -
   your results will be worse.
 * The one exception to this is Spark's ALS implementation, which is
   just very slow, but actually good quality. The best alternative is
@@ -126,6 +131,8 @@ a lot of data. Here are some things I learnt:
   the data and train a decision tree on each sample in parallel. This
   is much faster and better quality than Spark's decision tree
   implementation.
+* [Dask](https://dask.org/) is good for parallelising scientific
+  python code without resorting to something like Spark.
 * For topic modelling, the [Gensim library](https://radimrehurek.com/gensim/)
   is very good at building models incrementally without loading
   everything into memory.
